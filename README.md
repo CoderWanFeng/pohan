@@ -32,7 +32,7 @@ pip install -i https://mirrors.aliyun.com/pypi/simple/ pohan -U
 
 ## 📝功能
 
-[📘官网：https://www.python-office.com/](https://www.python-office.com/)
+[📘视频说明：https://www.bilibili.com/video/BV1sk4y1Y7wn](https://www.bilibili.com/video/BV1sk4y1Y7wn)
 
 参考资料：
 
