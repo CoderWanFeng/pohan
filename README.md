@@ -59,3 +59,8 @@ pip install -i https://mirrors.aliyun.com/pypi/simple/ pohan -U
 - [开源中国推荐：python-office自动化办公，每个功能只需一行代码，做到了真正的开箱即用。](https://mp.weixin.qq.com/s/d2m7xYCLXF8QUlr-5sSuPA)
 - [又一个微信聊天机器人发布了，人人可用！不需要网页版微信](https://www.bilibili.com/video/BV1Xa411u7yU)
 - [3大措施，整治程序员高薪现象！大快人心，人人有责](https://www.bilibili.com/video/BV1sd4y1c7T9)
+
+
+## 📕参考资料
+
+- 汉语转拼音：https://pypinyin.readthedocs.io/zh_CN/master/api.html#pypinyin.pinyin
